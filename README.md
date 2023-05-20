@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @mypowershield
-- 👀 I’m interested in @mypowershield
-- 🌱 I’m currently learning @mypowershield
-- 💞️ I’m looking to collaborate on @mypowershield
-- 📫 How to reach me @mypowershield
-
-@mypowershield
-@mypowershield
-@mypowershield
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mypowershield&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mypowershield&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mypowershield&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mypowershield&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mypowershield&theme=solarized_dark)
